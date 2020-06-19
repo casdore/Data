@@ -1,2 +1,2 @@
-# Data-visualization-with-Plotly----Starter
+# Data
 Basic use of Plotly in Python
